@@ -67,5 +67,11 @@
 <img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=fff&style=flat">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" alt="Visual Studio Badge">
-
 </p>
+
+<h2>🌎 Languages Spoken</h2>
+
+- :brazil: Portuguese (Native)
+- :us: English (Proficient - C1)
+- :fr: French (Intermediate - B1)
+- :es: Spanish (Basic - A1)
