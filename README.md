@@ -20,7 +20,6 @@
 <a href="https://izidoromth.vercel.app"><img align="center" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://izidoromth.vercel.app" height="30"/></a>
 <a href="mailto:matheusizidoro07@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="30"/></a>
 </p>
-<br>        
 
 <h2>👨‍💻Linguagens</h2>
 
