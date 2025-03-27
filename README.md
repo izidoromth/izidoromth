@@ -74,7 +74,7 @@
 
 <h2>🌎 Idiomas</h2>
 
-- :brazil: Portuguese (Native)
-- :us: English (Proficient - C1)
-- :fr: French (Intermediate - B1)
-- :es: Spanish (Basic - A1)
+- :brazil: Portguês (Native)
+- :us: Inglês (Proficient - C1)
+- :fr: Francês (Intermediate - B1)
+- :es: Espanhol (Basic - A1)
