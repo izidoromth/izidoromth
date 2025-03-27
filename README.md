@@ -1,5 +1,5 @@
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Oi!;Seja+bem-vindo+ao+meu;perfil+no+GitHub;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Oi!;Seja+bem-vindo+ao+meu;perfil+no+GitHub" alt="Typing SVG" /></a>
 </h1>
 <br>
 <p>
@@ -15,8 +15,8 @@
 
 <h3 align="left"> 📫 Minhas Redes:</h3>
 <p align="left">
-<a href="https://instagram.com/izidoro.mth" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="30"/></a>
-<a href="https://linkedin.com/in/izidoromth" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30"/></a>
+<a href="https://instagram.com/izidoro.mth" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="30"/></a>
+<a href="https://linkedin.com/in/izidoromth" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30"/></a>
 <a href="https://izidoromth.vercel.app"><img align="center" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://izidoromth.vercel.app" height="30"/></a>
 <a href="mailto:matheusizidoro07@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="30"/></a>
 </p>
